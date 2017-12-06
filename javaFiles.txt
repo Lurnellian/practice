@@ -1,0 +1,8 @@
+C:\Users\oleg_slepichev\IdeaProjects\practice\checkMaven\src\main\java\Main.java
+C:\Users\oleg_slepichev\IdeaProjects\practice\reflectionTest\src\refTest\Hello.java
+C:\Users\oleg_slepichev\IdeaProjects\practice\reflectionTest\src\refTest\Main.java
+C:\Users\oleg_slepichev\IdeaProjects\practice\reflectionTest\src\refTest\Test.java
+C:\Users\oleg_slepichev\IdeaProjects\practice\setTest\src\Cards.java
+C:\Users\oleg_slepichev\IdeaProjects\practice\setTest\src\Main.java
+C:\Users\oleg_slepichev\IdeaProjects\practice\untitled\src\Main.java
+C:\Users\oleg_slepichev\IdeaProjects\practice\untitled1\src\Main.java
