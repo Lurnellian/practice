@@ -20,7 +20,11 @@ public class Main {
             if (file.isDirectory()){
                 showTree(file.getAbsolutePath(), nest + 1);
             }
-            else dirFiles.add(file.getAbsolutePath());
+            else {
+                if (file.getName().endsWith("java")) {
+                    dirFiles.add(file.getAbsolutePath());
+                }
+            }
         }
     }
 }
